@@ -1,0 +1,4 @@
+[submodule "HolyC-for-Linux"]
+	path = HolyC-for-Linux
+	url = https://github.com/jamesalbert/HolyC-for-Linux
+	branch = master
